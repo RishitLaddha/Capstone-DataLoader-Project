@@ -2,6 +2,8 @@
 
 [![Python CI](https://github.com/RishitLaddha/session15-Capstone/actions/workflows/test.yml/badge.svg)](https://github.com/RishitLaddha/session15-Capstone/actions/workflows/test.yml)
 
+<img width="1223" alt="Screenshot 2025-02-18 at 16 02 35" src="https://github.com/user-attachments/assets/22c55a20-84ac-4414-829e-c558cbb134f8" />
+
 Welcome to the Session15-Capstone DataLoader project! This project demonstrates a flexible, modular Python-based DataLoader that can load, preprocess, and manage various types of datasets including images, text, CSV files, and unstructured data. The project is designed with simplicity and extensibility in mind so that even non-technical users can appreciate its design, while technical users can dive deep into its functionality.
 
 ## Overview
