@@ -1,4 +1,4 @@
-# Session15-Capstone DataLoader Project
+# Capstone DataLoader Project
 
 [![Python CI](https://github.com/RishitLaddha/session15-Capstone/actions/workflows/test.yml/badge.svg)](https://github.com/RishitLaddha/session15-Capstone/actions/workflows/test.yml)
 
